@@ -1,0 +1,4 @@
+onhovercarousel
+===============
+
+jQuery plugin onHoverCarousel
